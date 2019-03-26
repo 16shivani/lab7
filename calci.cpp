@@ -50,6 +50,18 @@ cout<<"result:"<<result;
 return 0;
 } 
 
+int sum(int x, int y)
+{
+	result=x+y;
+	return 0;
+}
+int subtract(int x, int y)
+{
+	result=x-y;
+	return 0;
+}
+
+
 
 
 
