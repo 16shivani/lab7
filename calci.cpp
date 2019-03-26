@@ -60,6 +60,16 @@ int subtract(int x, int y)
 	result=x-y;
 	return 0;
 }
+int multiply( int x, int y)
+{
+	result=x*y;
+	rrturn 0;
+}
+int division(int x, int y)
+{
+	result=x/y;
+	return 0;
+}
 
 
 
